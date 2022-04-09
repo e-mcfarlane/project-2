@@ -8,20 +8,18 @@
 </ul>
 
 ## Results:
-<ul> MACD: 
+MACD: 
   <ul>
-    <li>[![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-macd.jpg "CAT MACD results")]
-    <li>[![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-macd.jpg "OSTK MACD results")]
-    <li>[![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-macd.jpg "DGX MACD results")]
+    <li>![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-macd.jpg "CAT MACD results")
+    <li>![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-macd.jpg "OSTK MACD results")
+    <li>![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-macd.jpg "DGX MACD results")
   </ul>
-</ul>
-<ul> CCI & MFI: 
+  CCI & MFI: 
   <ul>
-    <li>[![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-cci-mfi.jpg "CAT CCI & MFI results")]
-    <li>[![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-cci-mfi.jpg "OSTK CCI & MFI results")]
-    <li>[![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-cci-mfi.jpg "DGX CCI & MFI results")]
+    <li>![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-cci-mfi.jpg "CAT CCI & MFI results")
+    <li>![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-cci-mfi.jpg "OSTK CCI & MFI results")
+    <li>![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-cci-mfi.jpg "DGX CCI & MFI results")
   </ul>
-</ul>
 
 
 ## Conclusions
