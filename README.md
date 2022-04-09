@@ -9,13 +9,17 @@
 
 ## Results:
 MACD: 
-![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-macd.jpg "CAT MACD results")
+![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-macd.jpg "CAT MACD results") 
+<br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-macd.jpg "OSTK MACD results")
+<br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-macd.jpg "DGX MACD results")
 
 CCI & MFI: 
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-cci-mfi.jpg "CAT CCI & MFI results")
+<br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-cci-mfi.jpg "OSTK CCI & MFI results")
+<br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-cci-mfi.jpg "DGX CCI & MFI results")
  
 
