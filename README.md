@@ -9,6 +9,7 @@
 
 ## Results:
 MACD: 
+<br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-macd.jpg "CAT MACD results") 
 <br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-macd.jpg "OSTK MACD results")
@@ -16,6 +17,7 @@ MACD:
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/dgx-macd.jpg "DGX MACD results")
 
 CCI & MFI: 
+<br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/cat-cci-mfi.jpg "CAT CCI & MFI results")
 <br>
 ![Alt text](https://github.com/e-mcfarlane/project-2/blob/main/ostk-cci-mfi.jpg "OSTK CCI & MFI results")
